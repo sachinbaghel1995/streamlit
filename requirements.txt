@@ -9,4 +9,5 @@ numpy
 python-dotenv
 spacy
 pyttsx3
+espeak-ng
 
