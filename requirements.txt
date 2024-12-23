@@ -8,3 +8,6 @@ pandas
 numpy
 python-dotenv
 spacy
+pyttsx3
+threading
+queue
